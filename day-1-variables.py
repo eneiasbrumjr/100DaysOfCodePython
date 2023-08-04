@@ -1,3 +1,4 @@
+# Day 1 - Exercise 04 - Variables
 # 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")
